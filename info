@@ -1,12 +1,22 @@
-CSCB07 Tutorial Exercise #1
+CSCB07 Tutorial Exercise #2
 
-This repository was created for CSCB07 Software Design Tutorial Exercise #1.
+This repository contains my work for CSCB07 Software Design Tutorial Exercise #2.
 
-The purpose of this lab is to practice:
-- using Git and GitHub
-- cloning a repository
-- compiling and running Java programs from the command line
-- creating a Java class named Polynomial
-- testing the Polynomial class using a Driver program
+In this exercise, I updated the Polynomial class from Exercise 1 to use two arrays:
+- one array for non-zero coefficients
+- one array for the corresponding exponents
 
-This lab includes work with polynomial coefficients, polynomial addition, evaluation, and root checking.
+The updated Polynomial class now supports:
+- polynomial addition
+- polynomial multiplication
+- polynomial evaluation
+- root checking
+- reading a polynomial from a file
+- saving a polynomial to a file
+
+This exercise also practices Git branching by creating and working on a separate branch named lab2.
+
+Files included:
+- Polynomial.java
+- Driver.java
+- info

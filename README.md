@@ -1,2 +1,2 @@
-# b07lab1
-CSCB07 Exercise 1
+# b07lab2
+CSCB07 Exercise 2
