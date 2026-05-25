@@ -1,0 +1,12 @@
+CSCB07 Tutorial Exercise #1
+
+This repository was created for CSCB07 Software Design Tutorial Exercise #1.
+
+The purpose of this lab is to practice:
+- using Git and GitHub
+- cloning a repository
+- compiling and running Java programs from the command line
+- creating a Java class named Polynomial
+- testing the Polynomial class using a Driver program
+
+This lab includes work with polynomial coefficients, polynomial addition, evaluation, and root checking.
